@@ -1,0 +1,1 @@
+apt install -y util-linux apache2 mariadb-server mariadb-client php7.4 php7.4-curl php7.4-cli php7.4-pdo php7.4-mysql php7.4-pear php7.4-gd php7.4-mbstring php7.4-intl php7.4-bcmath curl sox mpg123 lame ffmpeg sqlite3 git unixodbc sudo dirmngr postfix asterisk odbc-mariadb php7.4-ldap nodejs npm pkg-config libicu-dev
